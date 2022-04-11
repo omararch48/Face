@@ -1,0 +1,1 @@
+# Crea un archivo llamado row.py en la misma carpeta que contenga a main.py, escribe una variable row = """ ... """ en donde el contenido del docstring es el renglon mágico del código fuente de tu perfil de facebook ;)
